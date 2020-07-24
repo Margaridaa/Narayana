@@ -3,7 +3,7 @@ Narayana Numbers in *OCaml*
 
 ## Input Values
 
-A *n* and a *k*, 1 <= *n* <= 30 1 <= *k* <= *n*.
+A *n* and a *k*, 1 <= *n* <= 30 and 1 <= *k* <= *n*.
 
 ## Output Value
 
